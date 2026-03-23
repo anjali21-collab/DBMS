@@ -1,4 +1,4 @@
-# DBMS Assignments
+# DBMS 
 
 *Name:* Anjali Tomar  
 *Roll Number:* 2401010080  
